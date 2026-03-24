@@ -273,26 +273,6 @@ The compiler gives clear errors at every phase:
 
 ---
 
-## Limitations
-
-- No `JOIN` support yet
-- No subqueries
-- No date/time functions
-- Only generates Python (no C/Java targets yet)
-
----
-
-## Future Enhancements
-
-- `JOIN` across multiple CSV files
-- Subqueries / nested `SELECT`
-- `WITH` (CTEs) support
-- `UNION` / `INTERSECT` set operations
-- C code generation for better performance
-- Index support for faster lookups
-
----
-
 ## Team
 
 **Syntax Syndicate**
@@ -308,4 +288,4 @@ The compiler gives clear errors at every phase:
 
 ---
 
-*Compiler Design · PBL 2024–25*
+*Compiler Design · PBL 2026*
